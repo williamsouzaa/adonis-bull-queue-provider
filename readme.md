@@ -50,12 +50,12 @@ adonis job:listen
 ## Add item in queue.
 
 ```js
-	const Queue = use("Bull/Queue");
-	class{
-		method(ctx){
-			Queue.add("TestJob", { msg: "Params to queue..." })
-		}
-	}
+const Queue = use("Bull/Queue");
+  class{
+    method(ctx){
+      Queue.add("TestJob", { msg: "Params to queue..." })
+    }
+}
 ```
 
 ## Example
