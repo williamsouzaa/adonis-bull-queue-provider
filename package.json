@@ -1,0 +1,31 @@
+{
+  "name": "adonis-bull-queue-provider",
+  "version": "1.0.1",
+  "description": "Bull Adonis Provider",
+  "main": "provider/index.js",
+  "author": "williamsouzaa",
+  "license": "MIT",
+  "dependencies": {
+    "bull": "^3.11.0"
+  },
+  "keywords": [
+    "adonisjs bull queue",
+    "adonisjs queue",
+    "adonisjs bull",
+    "adonisjs bull queue br",
+    "adonisjs bull queue provider",
+    "adonisjs bull provider",
+    "adonis bull queue",
+    "adonis js bull queue",
+    "adonis js queue",
+    "adonis js bull",
+    "adonis js bull queue br",
+    "adonis js bull queue provider",
+    "adonis js bull provider",
+    "adonis bull queue",
+    "adonis bull",
+    "adonis bull queue br",
+    "adonis bull queue provider",
+    "adonis redis bull provider"
+  ]
+}
